@@ -1,1 +1,1 @@
-# pcb-defect-detection-using-deep-learning
+# pcb-defect-detection
